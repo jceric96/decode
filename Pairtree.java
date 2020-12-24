@@ -10,8 +10,6 @@ is a simple binary tree whose data is explicitly of the Pair type, and which
 implements the Comparable interface to ensure that tree objects can be
 stored/sorted via PriorityQueue, simplifying implementation of the Huffman
 Coding algorithm described in lecture.
-Most methods are cribbed from the BinaryTree class provided by Srini (Dr.
-Srini Sampalli). Used for A4 from previous version.
 */
 
 import java.util.LinkedList;

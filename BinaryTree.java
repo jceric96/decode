@@ -3,8 +3,7 @@ package assignment4;
 
 
 /**
-This class describes a simple BinaryTree class. It was provided by Srini
-(Dr. Srini Sampalli).
+This class describes a simple BinaryTree class.
 */
 
 import java.util.LinkedList;
